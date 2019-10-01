@@ -18,6 +18,24 @@
         "Elements", 
         "inptFirstName.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "membership", 
+        "Elements", 
+        "btnMembershipSubmit.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "membership", 
+        "Elements", 
+        "lblVerify.json"
+      ]
     }
   ], 
   "class": "", 
